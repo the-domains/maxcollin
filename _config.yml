@@ -1,0 +1,28 @@
+name: maxcollin
+favicon: null
+layout_spectrum: 0.17627
+typography_spectrum: 0.30846
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#010101'
+    - '#fefefc'
+    - '#702d24'
+    - '#fcc6af'
+    - '#d1836e'
+  brandStrength: 0.5625
+  lightness: 0.625
+  saturation: 0.3125
+  rhythmicContrast: 0.5
+purpose: []
